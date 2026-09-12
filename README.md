@@ -55,10 +55,7 @@ average) and inherently safe to run on links you haven't vetted yet.
 
 | Input | Safe Result | Threat Result |
 |---|---|---|
-| ![Input screen](<img width="931" height="815" alt="Screenshot 2026-09-12 141950" src="https://github.com/user-attachments/assets/0523e69d-b4ab-483d-ac88-f5fe74f67b1e" />
-) | ![Safe result](<img width="625" height="405" alt="image" src="https://github.com/user-attachments/assets/ea34dcea-8647-47a6-a1eb-94814fa1f7b9" />
-) | ![Threat result](<img width="634" height="405" alt="image" src="https://github.com/user-attachments/assets/fbc5c9da-6d59-4d1b-8fa3-f5957428c8bf" />
-) |
+| ![Input screen](https://github.com/user-attachments/assets/0523e69d-b4ab-483d-ac88-f5fe74f67b1e) | ![Safe result](https://github.com/user-attachments/assets/ea34dcea-8647-47a6-a1eb-94814fa1f7b9) | ![Threat result](https://github.com/user-attachments/assets/fbc5c9da-6d59-4d1b-8fa3-f5957428c8bf) |
 
 A live, in-browser version of the UI (running a lightweight client-side approximation of the model) is included in this repo as `CyberGuard_Live_Demo.html` — open it directly in any browser, no server required.
 
